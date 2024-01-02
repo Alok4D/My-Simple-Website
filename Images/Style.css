@@ -1,0 +1,9 @@
+h2{
+    font-size: 35px;
+    color: aqua;
+    background-color: rgb(245, 195, 102);
+    text-align: center;
+}
+.div   {
+    padding: 10px solid red;
+}
